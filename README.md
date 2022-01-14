@@ -4,9 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekimemre&label=Profile%20views&color=0e75b6&style=flat" alt="ekimemre" /> </p>
 
-- 👀 I’m interested in JavaScript, React, GO.
 
-- 🌱 I’m currently learning **React**
+
+- 🚀 I’m currently learning **React**
+
+- 👀 I'm also interested in backend software, mainly GoLang
 
 - 📫 How to reach me **eemre.ekim@gmail.com**
 
