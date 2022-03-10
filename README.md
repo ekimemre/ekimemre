@@ -4,7 +4,7 @@
 
 <hr/>
 
-- 🚀 I’m currently learning **JavaScript and React**
+- 🚀 I’m currently learning **JavaScript | Vue | React**
 
 - 👀 I'm also interested in backend software technologies, mainly GoLang
 
